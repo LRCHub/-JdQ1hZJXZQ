@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "UNFADING",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-26T03:57:08.657171Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unfading",
+      "artist": "Aika",
+      "has_synced": true,
+      "path": "select/01_Unfading_Aika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "To My Unfading Sorrow",
+      "artist": "Paragon Of Beauty",
+      "has_synced": false,
+      "path": "select/02_To_My_Unfading_Sorrow_Paragon_Of_Beauty.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unfading",
+      "artist": "Boneflower",
+      "has_synced": false,
+      "path": "select/03_Unfading_Boneflower.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Unfading Divine",
+      "artist": "Akacia",
+      "has_synced": false,
+      "path": "select/04_Unfading_Divine_Akacia.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unfading",
+      "artist": "Ashunite",
+      "has_synced": false,
+      "path": "select/05_Unfading_Ashunite.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Unfading",
+      "artist": "Ashunite",
+      "has_synced": true,
+      "path": "select/06_Unfading_Ashunite.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNFADING",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_UNFADING_MIMI.txt"
+    }
+  ]
+}
